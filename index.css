@@ -1,0 +1,139 @@
+*{
+    background-color: rgb(219, 229, 247);
+    margin: 25px;
+}
+
+.practice{
+    text-align: center;
+    border-bottom: 5px solid blue;
+    
+    
+}
+span{
+    color: crimson;
+}
+.practice1{
+    border: 3px solid seagreen;
+    border-radius: 30px;
+    text-align: center;
+    width: 600px;
+    margin-left: 180px;
+    box-shadow: 20px 20px 30px lightgreen;
+}
+.practice2{
+    text-align: center;
+    color: crimson;
+}
+.practice2div{
+    margin-left: 100px;
+}
+.learnfromph{
+    color: crimson;
+    text-align: center;
+    
+}
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imagelorem{
+    color: rgb(165, 11, 91);
+    text-align: center;
+}
+.aboutpassion{
+    padding-left: 18%;
+    color: rgb(255, 47, 0);
+}
+.form{
+    padding-left: 42%;
+    color: rgb(221, 0, 255);
+}
+.submit{
+    margin-left: 40%;
+    background-color: rgb(218, 255, 205);
+    color: red;
+    border-radius: 10px;
+    width: 90px;
+    height: 30px;
+    font-size: 18px;
+}
+.today{
+    border: 3px solid rgb(112, 243, 5);
+    border-radius: 20px;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    box-shadow: 10px 10px 20px red;
+
+}
+.three{
+    border: 3px solid rgb(13, 5, 243);
+    border-radius: 20px;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    box-shadow: 10px 10px 20px rgb(212, 255, 0);
+
+}
+.text{
+    border: 3px solid rgb(243, 5, 5);
+    border-radius: 20px;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    box-shadow: 10px 10px 20px rgb(0, 255, 179);
+
+}
+.css{
+    border: 3px solid rgb(5, 199, 243);
+    border-radius: 20px;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    box-shadow: 10px 10px 20px rgb(0, 115, 255);
+
+}
+.extra{
+    border: 3px solid rgb(223, 5, 243);
+    border-radius: 20px;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    box-shadow: 10px 10px 20px rgb(0, 255, 8);
+
+}
+.subscribe{
+    padding-left: 33%;
+}
+.subscribecolor{
+    color: deeppink;
+    
+}
+.margin{
+        margin-left: 22px;
+}
+.left{
+    margin-left: 1px;
+}
+
+
+.sbutton{
+    margin-top: 5%;
+    margin-left: 25%;
+    background-color: rgb(102, 85, 231);
+    color:white;
+    border-radius: 20px;
+}
+.hotoffer{
+    color: magenta;
+    font-size: xx-large;
+    padding-left: 31%;
+}
+footer{
+    text-align: center;
+    color: rgb(106, 31, 31);
+}
+
+
+
